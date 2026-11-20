@@ -71,7 +71,7 @@ AERIS-01/
 
 ## Tools
 
-OpenVSP 3.56 and VSPAERO for the model. I used three AI tools during this project: ChatGPT, Claude, and DeepSeek. Each one helped me in a different part of the work.
+OpenVSP 3.56 and VSPAERO for the model and also i used three AI tools during this project: ChatGPT, Claude, and DeepSeek. Each one helped me in a different part of the work.
 
 At the beginning, I used GPT to learn the basic concepts and create a daily study plan. I started with the fundamentals of flight physics and aerodynamics, including lift, drag, thrust, weight, angle of attack, and stall. I also studied wing, fuselage, and tail design, the main parts of an airfoil, camber, thickness, chord, and how wing geometry works. Later, I learned about aspect ratio, taper ratio, sweep, dihedral, air density and its changes with altitude, and some basic takeoff and flight concepts.
 
@@ -88,3 +88,5 @@ All three tools supported me throughout the project, from the first learning ste
 My approach to using AI was strongly influenced by the course **AI for Learning and Future Careers**, offered by the **University of Wollongong (UOW)**. The course helped me understand how to interact with AI more effectively, how to use it responsibly, and why it is important to understand its limitations. It also helped me become more aware of the rules and considerations involved in using AI for learning and research.
 
 I would recommend this course to students, university learners, and educators who want to develop a better understanding of AI and learn how to use it effectively in their studies and work. 
+
+thanks for your time.
