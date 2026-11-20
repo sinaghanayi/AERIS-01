@@ -51,7 +51,7 @@ Mass and power are design targets I chose, not calculated values. Landing gear i
 
 ## Next steps
 
-Add the vertical tail to the analysis, estimate the centre of gravity and check tail size, test a finer mesh, and build a better drag estimate.
+I plan to estimate the centre of gravity, check the tail size, test a finer mesh, and work on a more realistic drag estimate.
 
 ## Repository contents
 
